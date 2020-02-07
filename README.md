@@ -1,4 +1,4 @@
-# KvUmbrella
+# Elixir Tutorial
 
-**TODO: Add description**
+**Fábio Tebaldi KvUmbrella Tutorial**
 

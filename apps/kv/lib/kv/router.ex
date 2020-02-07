@@ -25,7 +25,7 @@ defmodule KV.Router do
   The routing table
   """
   def table do
-    [{?a..?m, :"foo@NT-TEBALDI"}, {?n..?z, :"bar@NT-TEBALDI"}]
+    Application.fetch_env!(:kv, :routing_table)
   end
 
   defp no_entry_error(bucket) do
