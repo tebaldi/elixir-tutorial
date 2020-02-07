@@ -1,4 +1,9 @@
-# Elixir Tutorial
+# Fábio Tebaldi - KvUmbrella Elixir Tutorial
 
-**Fábio Tebaldi KvUmbrella Tutorial**
+**Sample Key Store Memory Cache Umbrella Application**
+kv_server application is running under foo@NT-Tebaldi node and is responsable for server the socket connections and distrube the load using routing.
 
+kv application is running under foo@machine and bar@NT-Tebaldi nodes and is responsable for storing and manipulation the data.
+
+**Demo video**
+./demo/demo.webm
