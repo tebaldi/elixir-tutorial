@@ -8,4 +8,4 @@ kv application is running under foo@machine and bar@NT-Tebaldi nodes and is resp
 
 **Demo video**
 
-./demo/demo.webm
+https://github.com/tebaldi/elixir-tutorial/blob/master/demo/demo.webm
