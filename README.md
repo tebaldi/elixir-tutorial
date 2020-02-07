@@ -6,6 +6,7 @@ kv_server application is running under foo@NT-Tebaldi node and is responsable fo
 
 kv application is running under foo@machine and bar@NT-Tebaldi nodes and is responsable for storing and manipulation the data.
 
-**Demo video**
+
+**Demo**
 
 https://github.com/tebaldi/elixir-tutorial/blob/master/demo/demo.webm
